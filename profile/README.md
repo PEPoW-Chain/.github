@@ -50,5 +50,5 @@ PEPOW will have a maximum supply of **4 trillion tokens**, ensuring a sustainabl
 
 
 
-*Join us on this exciting journey as we revolutionize the PoW coin space, providing a fun, profitable, and community-driven mining experience with PEPOW. Visit our website at https://pepow.io to learn more.
+*Join us on this exciting journey as we revolutionize the PoW coin space, providing a fun, profitable, and community-driven mining experience with PEPOW. Visit our website at https://pepow.finance to learn more.
 ---
