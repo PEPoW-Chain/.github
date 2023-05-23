@@ -1,3 +1,5 @@
+<img src="https://pepow.finance//og-image.png"/>
+
 # PEPOW: The innovative PoW coin on BSC. Mine easily on your browser, swap seamlessly, stake for rewards. Join the revolution today! #crypto #mining
 
 ## Introduction
